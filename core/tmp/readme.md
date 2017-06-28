@@ -1,1 +1,0 @@
-cached sessions will be stored in this folder

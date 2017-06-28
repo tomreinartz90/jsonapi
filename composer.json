@@ -4,7 +4,9 @@
     "type": "library",
     "require": {
         "slim/slim": "^3.0",
-        "catfan/Medoo": "^1.4"
+        "catfan/Medoo": "^1.4",
+        "firebase/php-jwt": "^4.0",
+        "google/apiclient": "^2.0"
     },
     "autoload": {
         "psr-4": {
